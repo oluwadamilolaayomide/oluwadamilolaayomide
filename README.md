@@ -35,7 +35,7 @@ Analyzed coffee sales data (2019–2022) using an interactive Excel dashboard.
 - Larger product sizes generate higher profit  
 - 913 unique customers across ~1,000 orders  
 
- [View Project](https://github.com/oluwadamilolaayomide/coffee-sales-dashboard-excel)
+ [View Project](https://github.com/oluwadamilolaayomide/coffee-sales-analysis-excel)
 
 ---
 
