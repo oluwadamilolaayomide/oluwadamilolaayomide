@@ -40,5 +40,5 @@ Analyzed coffee sales data (2019–2022) using an interactive Excel dashboard.
 ---
 
 ##  Contact
-- LinkedIn: [https://www.linkedin.com/in/oluwadamilola-shafe-857904311?]  
-- Email: [shafedamilola@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/oluwadamilola-shafe-857904311)
+- [Emai](shafedamilola@gmail.com)
