@@ -45,4 +45,4 @@ Analyzed coffee sales transactions from 2019–2022 to understand revenue trends
 ##  Contact
 
 -  [LinkedIn](https://www.linkedin.com/in/oluwadamilola-shafe-857904311)
-- 📧 shafedamilola19@gmail.com
+-  shafedamilola19@gmail.com
