@@ -8,13 +8,31 @@ I'm a Data Analyst with hands-on experience using Excel and Power BI to clean da
 
 - Microsoft Excel (Pivot Tables, VLOOKUP, IF Functions)
 - Power BI (Dashboard Design, DAX)
-- SQL
-- Data Cleaning & Preparation
+- SQL & PostgreSQL (Queries, Views, Window Functions)
+- Data Cleaning & Validation
 - Data Visualization & Reporting
+- Database Design & Relational Modeling
 
 ---
 
 ##  Projects
+
+### Hospital Management SQL Analysis & Power BI Dashboard
+Analyzed a hospital management database to uncover critical revenue, 
+doctor performance and patient behavior insights across 3 branches.
+
+**Key Insights:**
+- The hospital collected only 31.47% of what it billed against an 80% benchmark
+- Failed payments ($193K) exceeded total collections ($173K)
+- 52 appointments were no-shows vs only 46 completed
+- Saturday recorded a perfect 0% no-show rate
+- Central Hospital outperformed other branches by $69K
+
+Tools: PostgreSQL · pgAdmin · Power BI · DAX
+
+[View Repository](https://github.com/oluwadamilolaayomide/hospital-management-sql-analysis) | [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY4ZWVjYTktZmZhYi00MzZmLTg0YmYtZGIyYzJjZWRmZDVlIiwidCI6ImI5YmM1OTJjLWQ0MDMtNDJhMi1hNDIxLWY0ZmNkN2Q5MjljYyJ9)
+
+___
 
 ###  Retail Performance Dashboard (Power BI)
 Analyzed ~5,000 retail orders to understand sales trends, customer behavior, product performance and shipping efficiency.
